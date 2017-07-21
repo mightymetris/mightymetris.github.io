@@ -6,10 +6,10 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: Georgia,Times,"Times New Roman",serif;
-$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+$base-font                   	: 'Droid Serif', serif;
+$heading-font                	: 'Droid Serif', serif;
 $caption-font                	: $base-font;
-$code-font                   	: monospace;
+$code-font                   	: 'Fira Mono', monospace;
 $alt-font                    	: $heading-font;
 
 $doc-font-size               	: 16;
