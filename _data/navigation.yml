@@ -3,4 +3,24 @@
 - title: home
   url: /
   excerpt:
-  image: /images/icons/home.png
+  image:
+
+- title: projects
+  url: /projects/
+  excerpt:
+  image:
+
+- title: places
+  url: /places/
+  excerpt:
+  image:
+
+- title: posts
+  url: /posts/
+  excerpt:
+  image:
+
+- title: about
+  url: /about/
+  excerpt:
+  image:
