@@ -115,22 +115,15 @@
 
 .bottom-menu {
 	@include clearfix;
-	@include media($small) {
-		height: 36px;
-		width: 36px;
-	}
-	position: relative;
-	text-align: left;
-	margin-top: $gutter;
-	margin-left: -$gutter;
-	margin-right: -$gutter;
-	font-weight: 700;
+	list-style-type: none;
+	padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
 	a {
-		color: lighten($black,60);
+		font-weight: 700;
+		@include font-size(16,no);
+		color: $black;
 		text-transform: uppercase;
 	}
 }
-
 
 /*
    Page wrapper
