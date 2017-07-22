@@ -6,6 +6,7 @@
       {% else %}
       {% assign domain = site.url %}
     {% endif %}
+    <td><input type="text" size="50" value="{{ site.url }}{{ post.image.thumb }}" /><td>
     <img src="{{ site.url }}{{ post.image.teaser }}" alt="teaser" itemprop="image">
     {% else %}
     {% if site.teaser contains 'http' %}
