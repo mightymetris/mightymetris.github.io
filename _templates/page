@@ -1,12 +1,15 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
-date: {{ date }}
+layout: page
+title:
+date:
 modified:
 excerpt:
 image:
   feature:
   teaser:
   thumb:
-ads: false  
+ads: false
+comments: 
+breadcrumbs:
+published:
 ---

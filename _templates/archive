@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: {{ title }}
-date: {{ date }}
+title:
+date:
 modified:
 excerpt:
 image:
   feature:
   teaser:
   thumb:
+ads: false
+comments:
+breadcrumbs:
+published:
 ---

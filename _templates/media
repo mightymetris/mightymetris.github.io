@@ -1,13 +1,16 @@
 ---
 layout: media
-title: {{ title }}
+title:
 modified:
-categories: {{ dir }}
+categories:
 excerpt:
 tags: []
 image:
   feature:
   teaser:
   thumb:
-ads: false  
+ads: false
+comments:
+breadcrumbs:
+published:
 ---
