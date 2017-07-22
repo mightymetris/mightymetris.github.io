@@ -16,6 +16,7 @@ published: true
 ---
 
 <form action="https://getsimpleform.com/messages?form_api_token=bb1faa8ed7173c9243f5503dd5bc85f8" method="post">
+  <input type='hidden' name='redirect_to' value='http://mightymetris.com/thanks' />
   Name:<input type='text' name='Name' />
   Email:<input type='text' name='Email' />
   Message:<input type='text' name='Message' style='height:250px;' />
