@@ -115,9 +115,19 @@
 
 .bottom-menu {
 	@include clearfix;
+	@include media($small) {
+		height: 36px;
+		width: 36px;
+	}
+	position: relative;
+	text-align: left;
+	margin-top: $gutter;
+	margin-left: -$gutter;
+	margin-right: -$gutter;
 	font-weight: 700;
 	a {
 		color: lighten($black,60);
+		text-transform: uppercase;
 	}
 }
 

@@ -1,4 +1,45 @@
 # Footer navigation links
 
 - title:
-  url:
+  url: /
+  image: /images/icons/home.png
+
+- title:
+  url: https://twitter.com/mightymetris
+  image: /images/icons/twitter.png
+
+- title:
+  url: https://disqus.com/by/mighty_metris/
+  image: /images/icons/disqus.png
+
+- title:
+  url: https://www.flickr.com/photos/156815100@N03/
+  image: /images/icons/flickr.png
+
+- title:
+  url: https://mightymetris.tumblr.com
+  image: /images/icons/tumblr.png
+
+- title:
+  url: https://mightymetris.tumblr.com
+  image: /images/icons/pintrest.png
+
+- title:
+  url: https://www.instagram.com/mightymetris/
+  image: /images/icons/instagram.png
+
+- title:
+  url: https://www.youtube.com/channel/UCYCQE9-Onvr8nLSLeT_vH6A
+  image: /images/icons/youtube.png
+
+- title:
+  url: https://vimeo.com/mightymetris
+  image: /images/icons/vimeo.png
+
+- title:
+  url: http://github.com/mightymetris
+  image: /images/icons/github.png
+
+- title:
+  url: /contact/
+  image: /images/icons/gmail.png

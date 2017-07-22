@@ -133,11 +133,12 @@
       left: 0;
       margin-bottom: 0;
       width: 50px;
-      border: 2px solid $white;
+      border: 0px;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
       @include media($small) {
-        width: 150px;
+        height: 50px;
+        width: 50px;
       }
     }
     a:hover .teaser {
@@ -147,10 +148,11 @@
       display: block;
       margin-left: 60px;
       font-family: $alt-font;
+      text-transform: uppercase;
       @include font-size(24,no);
       font-weight: 700;
       @include media($small) {
-        margin-left: 170px;
+        margin-left: 75px;
         @include font-size(32,no);
       }
     }
