@@ -7,7 +7,7 @@ excerpt:
 tags:
 image:
   feature:
-  teaser: /images/sunset_left.png
+  teaser: /images/bishop.png
   thumb:
 published: true
 ---
