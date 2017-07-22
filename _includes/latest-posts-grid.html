@@ -8,8 +8,8 @@
 				{% assign site.url = '' %}
 				{% else %}
 				{% assign domain = site.url %}
-			{% endif %}
-      <img src="{{ site.url }}{{ post.image.thumb }}" alt=""></a></li>
+      <img src="{{ site.url }}{{ post.image.thumb }}" alt="">{% endif %}
+    </a></li>
   {% endfor %}
   </ul>
 </div><!-- /.archive-wrap -->
