@@ -160,6 +160,7 @@
 	}
 	.page-title {
 		@include fill-parent;
+		text-transform: uppercase;
 	}
 	@at-root {
 		.page-content {

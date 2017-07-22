@@ -17,7 +17,7 @@ published: true
 
 ### This site is a work in progress!
 
-# ABOUT:
+# ABOUT
 
 | ![](/images/toby.png){:height="300px" width="300px"} | **TOBY:** <br>:paw_prints: :zzz: <br>95 lb chocolate lab who is scared of his own shadow. |
 | ![](/images/bishop.png){:height="300px" width="300px"} | **BISHOP:** <br>:paw_prints: :zzz: <br>55 lb black lab :100:% spaz! |
