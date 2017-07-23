@@ -31,7 +31,7 @@ owner:
     ad-client:
     ad-slot:
   bio:
-  avatar: /images/icons/van_sunrise.jpg # 160x160 px image for author byline
+  avatar: /images/icons/mm.png # 160x160 px image for author byline
   disqus-shortname: mighty_metris
 
 include:
