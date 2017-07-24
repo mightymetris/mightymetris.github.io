@@ -104,7 +104,7 @@
     }
   }
   ul {
-    margin: 0 10%;
+    margin: 0;
     @include media($large) {
       margin-right: 20%;
     }
@@ -116,10 +116,10 @@
   li {
     display: block;
     position: relative;
-    padding-bottom: 1em;
-    min-height: 70px;
+    padding-bottom: 0;
+    min-height: 50px;
     @include media($small) {
-      min-height: 100px;
+      min-height: 25px;
     }
   }
   .menu-item {

@@ -33,7 +33,7 @@
         {% endif %}
 
         <div class="archive__item-body">
-          {% if f.title %}<div class="archive__item-title">{{ f.title }}</div>{% endif %}
+          {% if f.title %}<div class="archive__item-title"><a href="{{ f_url }}">{{ f.title }}</a></div>{% endif %}
           {% if f.excerpt %}<div class="archive__item-excerpt">{{ f.excerpt | markdownify }}</div>{% endif %}
         </div>
       </div>
