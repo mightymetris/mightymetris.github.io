@@ -304,6 +304,27 @@
 }
 
 /*
+
+	Splash
+	========================================================================== */
+
+.archive__item {
+	padding: 0px;
+	margin: -10px
+}
+.archive__item-body {
+  @include font-size(62);
+	margin-top: -125px;
+	color: $white;
+ 	position: relative;
+	padding: 10px;
+ 	left: 0;
+ 	width: 100%;
+	text-transform: uppercase;
+}
+
+ /*
+
    Page footer
    ========================================================================== */
 
