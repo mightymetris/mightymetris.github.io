@@ -1,7 +1,7 @@
 ---
 title: splash
 layout: splash
-permalink: /splash/
+permalink: /
 date:
 feature_row1:
   - image_path: /images/splash/grill.jpg
