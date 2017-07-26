@@ -21,6 +21,7 @@
    ========================================================================== */
 
 .sliding-menu-button {
+  border-radius: 15px;
   position: fixed;
   transform: translateZ(0);
   backface-visibility: hidden; /* fix scroll jank */
@@ -31,7 +32,6 @@
   height: $button-size * 2;
   background: $primary-color;
   outline: 0;
-  padding: 0;
   border: 2.5px solid transparent;
   cursor: pointer;
   z-index: 20;
@@ -44,7 +44,7 @@
     background: $danger-color;
     transform: translateX(0); /* don't slide close button on small screens only */
     @include media($medium) {
-      transform: translateX(em(-600)); /* reset slide position */
+      transform: translateX(em(-385)); /* reset slide position */
     }
     @include media($large) {
       transform: translateX(em(-900)); /* reset slide position */
@@ -66,7 +66,7 @@
   text-align: left;
   @include size(100% 100%);
   @include media($small) {
-    width: em(600);
+    width: em(400);
   }
   @include media($large) {
     width: em(900);
@@ -96,11 +96,11 @@
       display: block;
       @include font-size(32,no,1);
       @include media($small) {
-        @include font-size(48,no,1);
+        @include font-size(32,no,1);
       }
       font-family: $base-font;
       text-transform: uppercase;
-      font-weight: 400;
+      font-weight: 700;
     }
   }
   ul {
@@ -150,7 +150,7 @@
       font-family: $alt-font;
       text-transform: uppercase;
       @include font-size(24,no);
-      font-weight: 700;
+      font-weight: 500;
       @include media($small) {
         margin-left: 75px;
         @include font-size(32,no);
@@ -161,8 +161,8 @@
       margin-left: 60px;
       @include font-size(14,no);
       @include media($small) {
-        margin-left: 170px;
-        @include font-size(16,no);
+        margin-left: 100px;
+        @include font-size(14,no);
       }
     }
   }

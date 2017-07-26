@@ -23,9 +23,13 @@
     @include font-size(16);
   }
   .post-teaser {
+    img {
+    border-radius: 25px;
+  }
     position: relative;
     display: block;
     &:after {
+      border-radius: 25px;
       content: '';
       position: absolute;
       width: 100%;

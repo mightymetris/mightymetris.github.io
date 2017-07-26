@@ -9,10 +9,11 @@ image:
   feature:
   teaser: https://farm5.staticflickr.com/4316/35207437923_6f1c277697_z.jpg
   thumb:
+breadcrumbs: false
 published: true
 ---
 
-blah blah
+The Mercedes-Benz Metris made it's debut in the US in October 2015, but has been readily available around the rest of the world for quite some time now and is known as the Vito or V-Klass.
 
 | [![](https://farm5.staticflickr.com/4316/35207437923_6f1c277697_z.jpg)](https://farm5.staticflickr.com/4316/35207437923_6f1c277697_z.jpg) | [![](https://farm5.staticflickr.com/4299/35207439363_53fd315a4b_z.jpg)](https://farm5.staticflickr.com/4299/35207439363_53fd315a4b_z.jpg) | [![](https://farm5.staticflickr.com/4326/35976396846_d0500d6e6b_z.jpg)](https://farm5.staticflickr.com/4326/35976396846_d0500d6e6b_z.jpg) |
 

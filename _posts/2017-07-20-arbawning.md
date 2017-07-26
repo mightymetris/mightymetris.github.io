@@ -9,6 +9,7 @@ image:
   feature:
   teaser: https://farm5.staticflickr.com/4326/36053439095_132b3ff19d_z.jpg
   thumb:
+breadcrumbs: false
 published: true
 ---
 

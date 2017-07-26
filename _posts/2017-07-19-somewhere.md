@@ -9,6 +9,7 @@ image:
   feature:
   teaser: /images/toby.png
   thumb:
+breadcrumbs: false
 published: true
 ---
 

@@ -7,17 +7,17 @@
 
 - title: projects
   url: /projects/
-  excerpt:
+  excerpt: Projects in flight (DIY + pro installs)
   image:
 
 - title: places
   url: /places/
-  excerpt:
+  excerpt: Places we want to go or have been
   image:
 
 - title: posts
   url: /posts/
-  excerpt:
+  excerpt: Reviews + tips + misc mischeif
   image:
 
 - title: about

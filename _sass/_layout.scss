@@ -20,7 +20,7 @@
 	}
 }
 .site-title {
-	margin-left: -15px;
+	margin-left: 5%;
 	@include row;
 	@include media($large) {
 		@include span-columns(4);
@@ -88,7 +88,7 @@
 .top-menu {
 	margin-top: 0;
 	margin-bottom: -50px;
-	margin-left: -15px;
+	margin-left: 5%;
 	display: none;
 	position: relative;
 	@include media($medium) {
@@ -120,6 +120,8 @@
 
 .bottom-menu {
   display: flex;
+  margin-top: -50px;
+  margin-left: -10%;
   justify-content: center;
 	@include clearfix;
 	list-style-type: none;
@@ -137,6 +139,7 @@
    ========================================================================== */
 
 #page-wrapper {
+  margin-left: 5%;
 	padding: 0 $gutter; // add white space for smaller screens
 	@include size(100% 100%);
 	-webkit-overflow-scrolling: touch;
@@ -312,25 +315,29 @@
 
 	Splash
 	========================================================================== */
-
 .archive__item {
-	padding: 0px;
-	margin: -10px
+  margin-left: 0;
+  width: 90%;
 }
 .archive__item-teaser {
+  img {
+    border-radius: 25px;
+    width: 100%;
+  }
 }
 .archive__item-body {
   @include font-size(62);
-	margin-top: -100px;
-	// color: $white;
+	margin-top: -110px;
+	color: $white;
  	position: relative;
 	padding: 0px;
 	left: 0;
- 	width: 100%;
-	text-align: center;
-	// text-transform: uppercase;
+	text-transform: uppercase;
+  left: 50%;
 }
 .archive__item-title a {
+  text-align: center;
+  margin-left: -10%;
 	text-decoration: none;
 	color: $white;
 	text-transform: uppercase;

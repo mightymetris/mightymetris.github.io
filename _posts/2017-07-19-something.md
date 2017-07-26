@@ -9,6 +9,7 @@ image:
   feature:
   teaser: /images/bishop.png
   thumb:
+breadcrumbs: false
 published: true
 ---
 
