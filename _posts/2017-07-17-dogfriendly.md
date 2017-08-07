@@ -21,9 +21,9 @@ Here are our solutions to make our Metris more dog friendly...
 
 | **Problem:** | Need non-slip flooring to keep the dogs safe and comfortable! |
 | **Solution:** | Installed TrafficMaster 4-Pack Grey Activity Foam Tiles to cover passenger cargo. |
-| **Notes:** | |
 | **Cost:** | $25 x 3 = $75 (with tiles to spare in case we want to make mods) |
 | **Links:** | ![](/images/icons/homedepot.png){:height="36px" width="36px"} <a href="http://www.homedepot.com/p/TrafficMASTER-Black-Gray-24-in-x-24-in-x-0-47-in-Dual-Sided-Gym-Floor-4-Pack-24120HDUS/301152506">TrafficMaster Black/Gray 24"x24" Dual Sided Gym Floor (4-Pack)</a><br><br>![](/images/icons/homedepot.png){:height="36px" width="36px"} <a href="http://www.homedepot.com/p/Ottomanson-Multi-Purpose-Grey-24-in-x-24-in-EVA-Foam-Interlocking-Anti-Fatigue-Exercise-Tile-Mat-6-Pack-EFM-24-Grey/302692941">Ottomanson Multi-Purpose Grey 24"x24" EVA Foam Interlocking Anti-Fatigue Exercise Tile Mat (6-Pack)</a><br><br> ![](/images/icons/amazon.png){:height="36px" width="36px"} <a target="_blank" href="https://www.amazon.com/gp/product/B00K2TWXD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K2TWXD6&linkCode=as2&tag=mightymetris-20&linkId=6684cec0170cfd85f9d3592475f069fa">ProSource Puzzle Exercise Mat, EVA Foam Interlocking Tiles, 24 Square Feet, Grey (Includes 6 tiles)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=mightymetris-20&l=am2&o=1&a=B00K2TWXD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> |
+| **Notes:** | |
 
 [![](https://farm5.staticflickr.com/4305/35847418232_9b0cf0b128_z.jpg)](https://farm5.staticflickr.com/4305/35847418232_9b0cf0b128_z.jpg) |
 
